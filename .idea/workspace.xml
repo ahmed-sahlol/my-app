@@ -5,37 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="396226d8-2d31-409d-bf36-a0e96b990718" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/nodejsssss.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/admin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/error.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/shop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/explain" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/cart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/product.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/admin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/shop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/termainal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/database.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/path.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/404.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/admin/edit-product.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/admin/products.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/includes/add-to-cart.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/includes/end.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/includes/head.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/includes/navigation.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/shop/cart.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/shop/checkout.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/shop/index.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/shop/orders.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/shop/product-details.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/shop/product-list.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="admincontroler" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
