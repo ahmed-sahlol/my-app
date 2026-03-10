@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="396226d8-2d31-409d-bf36-a0e96b990718" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/nodejsssss.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/shop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explain" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/cart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/shop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/termainal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/database.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/path.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/404.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/admin/edit-product.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/admin/products.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/includes/add-to-cart.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/includes/end.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/includes/head.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/includes/navigation.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/shop/cart.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/shop/checkout.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/shop/index.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/shop/orders.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/shop/product-details.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/shop/product-list.ejs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/app.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/controllers/admin.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/controllers/error.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/controllers/shop.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/explain" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/models/cart.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/models/product.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/models/user.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/routes/admin.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/routes/shop.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/util/database.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/views/404.ejs" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" root2="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/views/admin/edit-product.ejs" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" root2="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/views/shop/product-list.ejs" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" root2="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="35KRPfJ6hjMs37GfLdBuFzN0DV0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Node.js.My Node Server.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.index.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.route.js.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/AIA/nodejsssss&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.typescriptcompiler&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\AIA\\AppData\\Local\\Programs\\WebStorm\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ],
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;PLAIN_TEXT&quot;
+    ],
+    &quot;stardust.markdown.MarkdownSplitEditorSuppressor:keyList&quot;: []
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AIA\nodejsssss\views\admin" />
+      <recent name="C:\Users\AIA\nodejsssss\views\shop" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.My Node Server">
+    <configuration name="Unnamed" type="JavascriptDebugType" nameIsGenerated="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="My Node Server" type="NodeJSConfigurationType" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.Unnamed" />
+      <item itemvalue="Node.js.My Node Server" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-WS-251.25410.117" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="396226d8-2d31-409d-bf36-a0e96b990718" name="Changes" comment="" />
+      <created>1762856753605</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762856753605</updated>
+      <workItem from="1762856754721" duration="3970000" />
+      <workItem from="1763047820408" duration="709000" />
+      <workItem from="1763056145272" duration="834000" />
+      <workItem from="1763214480725" duration="917000" />
+      <workItem from="1763290596932" duration="2647000" />
+      <workItem from="1763300587838" duration="1301000" />
+      <workItem from="1763377931646" duration="7329000" />
+      <workItem from="1763549889325" duration="1867000" />
+      <workItem from="1763567423070" duration="1296000" />
+      <workItem from="1764231471804" duration="675000" />
+      <workItem from="1764520056316" duration="1228000" />
+      <workItem from="1764780545660" duration="2785000" />
+      <workItem from="1766262774227" duration="1285000" />
+      <workItem from="1766592499349" duration="1339000" />
+      <workItem from="1766598938270" duration="6248000" />
+      <workItem from="1766669555292" duration="47000" />
+      <workItem from="1766921303568" duration="6301000" />
+      <workItem from="1766932098098" duration="4493000" />
+      <workItem from="1767038271570" duration="1349000" />
+      <workItem from="1767372635262" duration="1376000" />
+      <workItem from="1767781862649" duration="1205000" />
+      <workItem from="1767786505464" duration="1367000" />
+      <workItem from="1767870115926" duration="1542000" />
+      <workItem from="1767872080430" duration="3499000" />
+      <workItem from="1767887755653" duration="655000" />
+      <workItem from="1768932542176" duration="917000" />
+      <workItem from="1768935070461" duration="3929000" />
+      <workItem from="1769115941494" duration="1746000" />
+      <workItem from="1769373472652" duration="3355000" />
+      <workItem from="1770381252999" duration="208000" />
+      <workItem from="1770396741823" duration="173000" />
+      <workItem from="1770398244334" duration="616000" />
+      <workItem from="1770467535805" duration="3764000" />
+      <workItem from="1770471862853" duration="4587000" />
+      <workItem from="1770570484379" duration="4340000" />
+      <workItem from="1770663468705" duration="4611000" />
+      <workItem from="1770724646006" duration="6180000" />
+      <workItem from="1770836274216" duration="10147000" />
+      <workItem from="1770995829526" duration="182000" />
+      <workItem from="1771005135026" duration="8671000" />
+      <workItem from="1771161147613" duration="526000" />
+      <workItem from="1771241766512" duration="7838000" />
+      <workItem from="1771276249300" duration="1913000" />
+      <workItem from="1771329002733" duration="4318000" />
+      <workItem from="1771666863643" duration="2558000" />
+      <workItem from="1771793748791" duration="15581000" />
+      <workItem from="1772020088188" duration="6170000" />
+      <workItem from="1772114619590" duration="604000" />
+      <workItem from="1772370170527" duration="8682000" />
+      <workItem from="1772625526882" duration="5831000" />
+      <workItem from="1772805426556" duration="5765000" />
+      <workItem from="1772811409787" duration="323000" />
+      <workItem from="1772890058365" duration="1325000" />
+      <workItem from="1773094106179" duration="9924000" />
+      <workItem from="1773146729285" duration="913000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
