@@ -5,36 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="396226d8-2d31-409d-bf36-a0e96b990718" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/models/cart-items.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_3_10_2026_4_12_PM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_3_10_2026_4_12_PM_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_3_10_2026_4_12_PM__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_3_10_2026_4_12_PM__Changes_1.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controllers/admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/admin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/error.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/error.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controllers/shop.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/shop.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/cart.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/cart.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/products.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/products.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/explain" beforeDir="false" afterPath="$PROJECT_DIR$/explain" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/cart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/cart-item.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/cart.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/models/product.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/product.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/models/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/user.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/forms.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/forms.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/admin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/shop.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/shop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/termainal" beforeDir="false" afterPath="$PROJECT_DIR$/termainal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/util/database.js" beforeDir="false" afterPath="$PROJECT_DIR$/util/database.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/path.js" beforeDir="false" afterPath="$PROJECT_DIR$/util/path.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/404.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/404.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/admin/edit-product.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/admin/edit-product.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/admin/products.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/admin/products.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/includes/add-to-cart.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/includes/add-to-cart.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/includes/end.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/includes/end.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/includes/head.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/includes/head.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/includes/navigation.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/includes/navigation.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/shop/cart.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/shop/cart.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/shop/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/shop/index.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/shop/orders.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/shop/orders.ejs" afterDir="false" />
@@ -114,6 +101,7 @@
   },
   &quot;keyToStringList&quot;: {
     &quot;DatabaseDriversLRU&quot;: [
+      &quot;mongo&quot;,
       &quot;mysql&quot;
     ],
     &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
@@ -220,7 +208,24 @@
       <workItem from="1775991248120" duration="410000" />
       <workItem from="1776094697589" duration="35000" />
       <workItem from="1779390092228" duration="1940000" />
-      <workItem from="1779392395743" duration="301000" />
+      <workItem from="1779392395743" duration="1164000" />
+      <workItem from="1779467197188" duration="953000" />
+      <workItem from="1779555696731" duration="3893000" />
+      <workItem from="1779628120538" duration="10000" />
+      <workItem from="1788192566841" duration="117000" />
+      <workItem from="1788540074291" duration="76000" />
+      <workItem from="1788616848460" duration="1441000" />
+      <workItem from="1788810150308" duration="249000" />
+      <workItem from="1788878281340" duration="13000" />
+      <workItem from="1788878324988" duration="143000" />
+      <workItem from="1789301330384" duration="4439000" />
+      <workItem from="1789832630235" duration="338000" />
+      <workItem from="1789833013048" duration="363000" />
+      <workItem from="1789905463400" duration="2233000" />
+      <workItem from="1789928229140" duration="7304000" />
+      <workItem from="1789992551299" duration="7515000" />
+      <workItem from="1790079138995" duration="4985000" />
+      <workItem from="1790092142295" duration="3271000" />
     </task>
     <servers />
   </component>
